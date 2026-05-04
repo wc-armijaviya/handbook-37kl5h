@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wc-armijaviya.github.io/handbook-37kl5h/sitemap.xml
